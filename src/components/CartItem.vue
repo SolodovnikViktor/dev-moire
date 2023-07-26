@@ -1,4 +1,5 @@
 <!-- eslint-disable vuejs-accessibility/form-control-has-label -->
+
 <template>
   <li class="cart__item product">
     <div class="product__pic">
